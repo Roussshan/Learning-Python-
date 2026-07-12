@@ -1,4 +1,10 @@
+#python strings
+
 print ('hello world');
+
+print ("""Whats up? 
+what are you doing? """)
+
 
 print('''
 Twinkle, twinkle, little star,
