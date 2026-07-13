@@ -14,6 +14,25 @@ Each file in this repo represents a small exercise or concept I'm working throug
 | `Addition of two number.py` | A simple script that takes two numbers and prints their sum. |
 | `diffrence of two number.py` | A simple script that takes two numbers and prints their difference. |
 
+
+## 🚀 Getting Started
+
+To run any of the scripts locally:
+
+1. Make sure you have Python installed (3.x recommended). You can check with:
+   ```bash
+   python --version
+   ```
+2. Clone this repository:
+   ```bash
+   git clone https://github.com/Roussshan/Learning-Python-.git
+   cd Learning-Python-
+   ```
+3. Run any script:
+   ```bash
+   python first.py
+   ```
+
 ## 🛠 Topics Covered So Far
 
 - Printing strings (single-line, multi-line, triple-quoted)
