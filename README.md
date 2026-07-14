@@ -1,52 +1,67 @@
 # Learning-Python-
 
-This repository documents my journey learning Python — from the very basics up to more advanced concepts. It's a personal collection of scripts I'm writing as I practice and build my Python skills from zero to hero.
+This repository documents my journey learning Python — from the very basics up to more advanced concepts. It is a personal collection of scripts written while practicing and improving Python skills step by step.
 
 ## 📌 About
 
-Each file in this repo represents a small exercise or concept I'm working through while learning Python. As I progress, I'll keep adding new scripts covering more topics.
+Each file in this repository represents a small exercise or concept being learned in Python. As progress continues, more scripts will be added covering additional topics and practice problems.
 
 ## 📂 Files
 
 | File | Description |
 |------|-------------|
 | `first.py` | Basic Python script covering string printing, including single-line, multi-line, and triple-quoted strings. |
-| `Addition of two number.py` | A simple script that takes two numbers and prints their sum. |
-| `diffrence of two number.py` | A simple script that takes two numbers and prints their difference. |
-
+| `Addition of two number.py` | A simple program that takes two numbers and prints their sum. It helps practice variables, input handling, and arithmetic operations. |
+| `diffrence of two number.py` | A simple program that takes two numbers and prints their difference. It helps practice subtraction and basic calculations. |
+| `check_leap_year.py` | A script that checks whether a given year is a leap year or not. It helps practice conditionals and logical checking. |
+| `compound Intrest.py` | A program for calculating compound interest. It helps practice formulas, variables, and mathematical operations. |
+| `Even_odd.py` | A script that checks whether a number is even or odd using the modulo operator and conditional statements. |
+| `MatrixMulti.py` | A script for matrix multiplication. It helps practice nested loops, list handling, and algorithmic thinking. |
+| `simple_intrest.py` | A program for calculating simple interest using the standard interest formula. It helps practice arithmetic and user input. |
 
 ## 🚀 Getting Started
 
-To run any of the scripts locally:
+To run any script locally:
 
-1. Make sure you have Python installed (3.x recommended). You can check with:
+1. Make sure Python is installed:
    ```bash
-   python --version
+   python3 --version
    ```
+
 2. Clone this repository:
    ```bash
    git clone https://github.com/Roussshan/Learning-Python-.git
    cd Learning-Python-
    ```
+
 3. Run any script:
    ```bash
-   python first.py
+   python3 first.py
    ```
 
 ## 🛠 Topics Covered So Far
 
-- Printing strings (single-line, multi-line, triple-quoted)
-- Basic arithmetic operations (addition, subtraction)
-
-More topics will be added as I continue learning — variables, data types, loops, conditionals, functions, and beyond.
+- Printing strings
+- Multi-line output
+- Triple-quoted strings
+- Input and output
+- Variables
+- Basic arithmetic operations
+- Addition and subtraction
+- Simple interest
+- Compound interest
+- Leap year checking
+- Even and odd number checking
+- Matrix multiplication
+- Conditional statements
 
 ## 🎯 Goal
 
-The goal of this repository is to track my progress as I go from a Python beginner to writing more complex and useful programs — basically, zero to hero.
+The goal of this repository is to track progress from Python beginner level to writing more useful and structured programs.
 
 ## 🤝 Contributing
 
-This is primarily a personal learning repository, but suggestions and feedback are always welcome via issues or pull requests.
+This is mainly a personal learning repository, but suggestions and feedback are welcome via issues or pull requests.
 
 ## 📄 License
 
