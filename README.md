@@ -18,6 +18,7 @@ Each file in this repository represents a small exercise or concept being learne
 | `Even_odd.py` | A script that checks whether a number is even or odd using the modulo operator and conditional statements. |
 | `MatrixMulti.py` | A script for matrix multiplication. It helps practice nested loops, list handling, and algorithmic thinking. |
 | `simple_intrest.py` | A program for calculating simple interest using the standard interest formula. It helps practice arithmetic and user input. |
+| `fibonacii.py` | A script for generating the Fibonacci sequence. It helps practice loops, variables, and sequence-based logic. |
 
 ## 🚀 Getting Started
 
@@ -53,6 +54,7 @@ To run any script locally:
 - Leap year checking
 - Even and odd number checking
 - Matrix multiplication
+- Fibonacci sequence
 - Conditional statements
 
 ## 🎯 Goal
