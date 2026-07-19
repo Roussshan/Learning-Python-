@@ -19,6 +19,9 @@ Each file in this repository represents a small exercise or concept being learne
 | `MatrixMulti.py` | A script for matrix multiplication. It helps practice nested loops, list handling, and algorithmic thinking. |
 | `simple_intrest.py` | A program for calculating simple interest using the standard interest formula. It helps practice arithmetic and user input. |
 | `fibonacii.py` | A script for generating the Fibonacci sequence. It helps practice loops, variables, and sequence-based logic. |
+| `multiplication_of_two_numbers.py` | A simple multiplication program that multiplies two numbers entered by the user. |
+| `prime_number_check.py` | A program that checks whether a number is prime or not. |
+| `palindrome_check.py` | A program that checks whether a word or sentence is a palindrome. |
 
 ## 🚀 Getting Started
 
@@ -49,12 +52,15 @@ To run any script locally:
 - Variables
 - Basic arithmetic operations
 - Addition and subtraction
+- Multiplication
 - Simple interest
 - Compound interest
 - Leap year checking
 - Even and odd number checking
 - Matrix multiplication
 - Fibonacci sequence
+- Prime number checking
+- Palindrome checking
 - Conditional statements
 
 ## 🎯 Goal
