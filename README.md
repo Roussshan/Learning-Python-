@@ -22,6 +22,10 @@ Each file in this repository represents a small exercise or concept being learne
 | `multiplication_of_two_numbers.py` | A simple multiplication program that multiplies two numbers entered by the user. |
 | `prime_number_check.py` | A program that checks whether a number is prime or not. |
 | `palindrome_check.py` | A program that checks whether a word or sentence is a palindrome. |
+| `temperature_converter.py` | A simple Celsius to Fahrenheit converter. |
+| `largest_of_three_numbers.py` | A program that finds the largest number among three inputs. |
+| `countdown_timer.py` | A simple countdown program that prints numbers in reverse order. |
+| `area_of_rectangle.py` | A program that calculates the area of a rectangle. |
 
 ## 🚀 Getting Started
 
@@ -53,8 +57,12 @@ To run any script locally:
 - Basic arithmetic operations
 - Addition and subtraction
 - Multiplication
+- Temperature conversion
+- Rectangle area calculation
 - Simple interest
 - Compound interest
+- Largest number finding
+- Countdown loop practice
 - Leap year checking
 - Even and odd number checking
 - Matrix multiplication
