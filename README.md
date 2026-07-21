@@ -26,6 +26,10 @@ Each file in this repository represents a small exercise or concept being learne
 | `largest_of_three_numbers.py` | A program that finds the largest number among three inputs. |
 | `countdown_timer.py` | A simple countdown program that prints numbers in reverse order. |
 | `area_of_rectangle.py` | A program that calculates the area of a rectangle. |
+| `string_reversal.py` | A program that reverses a string using both slicing and loops. |
+| `simple_calculator.py` | A basic calculator that performs arithmetic operations (+, -, *, /). |
+| `number_guessing_game.py` | An interactive guessing game where the user tries to guess a random number. |
+| `list_operations.py` | A program demonstrating list operations like sum, average, min, max, sort, and count. |
 
 ## 🚀 Getting Started
 
@@ -70,6 +74,15 @@ To run any script locally:
 - Prime number checking
 - Palindrome checking
 - Conditional statements
+- String reversal (slicing and loops)
+- String manipulation
+- Calculator with conditional operations
+- Random number generation
+- While loops
+- Interactive user programs
+- List operations (append, sum, min, max, sort, count)
+- List comprehension basics
+- Import statements
 
 ## 🎯 Goal
 
