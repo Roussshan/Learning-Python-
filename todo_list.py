@@ -13,3 +13,13 @@ def add_task():
         print(f"Task added: {task}")
     else:
         print("Task cannot be empty.")
+        
+def view_tasks():
+    """Show all tasks in the list."""
+    if not tasks:
+        print("Your to-do list is empty.")
+        return
+
+    print("\nYour tasks:")
+    for index, task in enumerate(tasks, start=1):
+        print(f"{index}. {task}")
