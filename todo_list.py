@@ -48,3 +48,16 @@ def remove_task():
     if not tasks:
         print("There are no tasks to remove.")
         return
+
+    view_tasks()
+    choice = input("Enter the number of the task to remove: ")
+
+    if choice.isdigit():
+        index = int(choice) - 1
+        if 0 <= index < len(tasks):
+            removed_task = tasks.pop(index)
+            print(f"Removed task: {removed_task}")
+        else:
+            print("Invalid task number.")
+    else:
+        print("Please enter a valid number.")
