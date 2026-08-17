@@ -23,3 +23,22 @@ def view_tasks():
     print("\nYour tasks:")
     for index, task in enumerate(tasks, start=1):
         print(f"{index}. {task}")
+
+def mark_done():
+    """Mark a task as completed by removing it from the list."""
+    if not tasks:
+        print("No tasks to mark complete.")
+        return
+
+    view_tasks()
+    choice = input("Enter the number of the task you completed: ")
+
+    if choice.isdigit():
+        index = int(choice) - 1
+        if 0 <= index < len(tasks):
+            completed_task = tasks.pop(index)
+            print(f"Great job! You've completed: {completed_task}")
+        else:
+            print("Invalid task number.")
+    else:
+        print("Please enter a valid number.")
