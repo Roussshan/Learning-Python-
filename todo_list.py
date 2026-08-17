@@ -61,3 +61,12 @@ def remove_task():
             print("Invalid task number.")
     else:
         print("Please enter a valid number.")
+
+def show_menu():
+    """Display the main menu."""
+    print("\n===== TO-DO LIST MENU =====")
+    print("1. Add task")
+    print("2. View tasks")
+    print("3. Mark task as done")
+    print("4. Remove task")
+    print("5. Exit")
