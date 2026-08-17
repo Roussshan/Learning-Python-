@@ -42,3 +42,9 @@ def mark_done():
             print("Invalid task number.")
     else:
         print("Please enter a valid number.")
+
+def remove_task():
+    """Remove a task from the list."""
+    if not tasks:
+        print("There are no tasks to remove.")
+        return
