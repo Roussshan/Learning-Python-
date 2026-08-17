@@ -70,3 +70,24 @@ def show_menu():
     print("3. Mark task as done")
     print("4. Remove task")
     print("5. Exit")
+
+# Main program loop
+print("Welcome to your To-Do List App!")
+
+while True:
+    show_menu()
+    choice = input("Choose an option (1-5): ")
+
+    if choice == "1":
+        add_task()
+    elif choice == "2":
+        view_tasks()
+    elif choice == "3":
+        mark_done()
+    elif choice == "4":
+        remove_task()
+    elif choice == "5":
+        print("Goodbye! Have a nice day.")
+        break
+    else:
+        print("Invalid choice. Please enter a number from 1 to 5.")
