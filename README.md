@@ -30,6 +30,7 @@ Each file in this repository represents a small exercise or concept being learne
 | `simple_calculator.py` | A basic calculator that performs arithmetic operations (+, -, *, /). |
 | `number_guessing_game.py` | An interactive guessing game where the user tries to guess a random number. |
 | `list_operations.py` | A program demonstrating list operations like sum, average, min, max, sort, and count. |
+| `todo_list.py` | An interactive to-do list CLI app to add, view, mark complete, and remove tasks. |
 
 ## 🚀 Getting Started
 
