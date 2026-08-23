@@ -31,6 +31,7 @@ Each file in this repository represents a small exercise or concept being learne
 | `number_guessing_game.py` | An interactive guessing game where the user tries to guess a random number. |
 | `list_operations.py` | A program demonstrating list operations like sum, average, min, max, sort, and count. |
 | `todo_list.py` | An interactive to-do list CLI app to add, view, mark complete, and remove tasks. |
+| `factorial.py` | A program that calculates the factorial of a non-negative integer using a loop. |
 
 ## 🚀 Getting Started
 
@@ -84,6 +85,7 @@ To run any script locally:
 - List operations (append, sum, min, max, sort, count)
 - List comprehension basics
 - Import statements
+- Factorial calculation with loops
 
 ## 🎯 Goal
 
