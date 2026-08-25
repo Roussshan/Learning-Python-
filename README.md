@@ -29,11 +29,16 @@ Each file in this repository represents a small exercise or concept being learne
 | `string_reversal.py` | A program that reverses a string using both slicing and loops. |
 | `simple_calculator.py` | A basic calculator that performs arithmetic operations (+, -, *, /). |
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 | `average_calculator.py` | A program that calculates the average of three numbers entered by the user. |
 | `number_guessing_game.py` | An interactive guessing game where the user tries to guess a random number. |
 | `list_operations.py` | A program demonstrating list operations like sum, average, min, max, sort, and count. |
 | `todo_list.py` | An interactive to-do list CLI app to add, view, mark complete, and remove tasks. |
 | `factorial.py` | A program that calculates the factorial of a non-negative integer using a loop. |
+=======
+| `number_guessing_game.py` | An interactive guessing game where the user tries to guess a random number. |
+| `list_operations.py` | A program demonstrating list operations like sum, average, min, max, sort, and count. |
+>>>>>>> Stashed changes
 =======
 | `number_guessing_game.py` | An interactive guessing game where the user tries to guess a random number. |
 | `list_operations.py` | A program demonstrating list operations like sum, average, min, max, sort, and count. |
@@ -86,7 +91,10 @@ To run any script locally:
 - String manipulation
 - Calculator with conditional operations
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - Average calculation using arithmetic
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 - Random number generation
@@ -96,7 +104,10 @@ To run any script locally:
 - List comprehension basics
 - Import statements
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - Factorial calculation with loops
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 
