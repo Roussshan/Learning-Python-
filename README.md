@@ -1,50 +1,41 @@
 # Learning-Python-
 
-This repository documents my journey learning Python — from the very basics up to more advanced concepts. It is a personal collection of scripts written while practicing and improving Python skills step by step.
+This repository contains a collection of Python exercises and mini-projects created while learning the language from the basics to more practical problem-solving tasks.
 
-## 📌 About
+## About
 
-Each file in this repository represents a small exercise or concept being learned in Python. As progress continues, more scripts will be added covering additional topics and practice problems.
+Each script focuses on a specific concept such as arithmetic, conditionals, loops, strings, lists, and simple user interaction. The goal is to build confidence through small, meaningful coding practice.
 
-## 📂 Files
+## Files
 
 | File | Description |
 |------|-------------|
-| `first.py` | Basic Python script covering string printing, including single-line, multi-line, and triple-quoted strings. |
-| `Addition of two number.py` | A simple program that takes two numbers and prints their sum. It helps practice variables, input handling, and arithmetic operations. |
-| `diffrence of two number.py` | A simple program that takes two numbers and prints their difference. It helps practice subtraction and basic calculations. |
-| `check_leap_year.py` | A script that checks whether a given year is a leap year or not. It helps practice conditionals and logical checking. |
-| `compound Intrest.py` | A program for calculating compound interest. It helps practice formulas, variables, and mathematical operations. |
-| `Even_odd.py` | A script that checks whether a number is even or odd using the modulo operator and conditional statements. |
-| `MatrixMulti.py` | A script for matrix multiplication. It helps practice nested loops, list handling, and algorithmic thinking. |
-| `simple_intrest.py` | A program for calculating simple interest using the standard interest formula. It helps practice arithmetic and user input. |
-| `fibonacii.py` | A script for generating the Fibonacci sequence. It helps practice loops, variables, and sequence-based logic. |
-| `multiplication_of_two_numbers.py` | A simple multiplication program that multiplies two numbers entered by the user. |
-| `prime_number_check.py` | A program that checks whether a number is prime or not. |
-| `palindrome_check.py` | A program that checks whether a word or sentence is a palindrome. |
-| `temperature_converter.py` | A simple Celsius to Fahrenheit converter. |
-| `largest_of_three_numbers.py` | A program that finds the largest number among three inputs. |
-| `countdown_timer.py` | A simple countdown program that prints numbers in reverse order. |
-| `area_of_rectangle.py` | A program that calculates the area of a rectangle. |
-| `string_reversal.py` | A program that reverses a string using both slicing and loops. |
-| `simple_calculator.py` | A basic calculator that performs arithmetic operations (+, -, *, /). |
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-| `average_calculator.py` | A program that calculates the average of three numbers entered by the user. |
-| `number_guessing_game.py` | An interactive guessing game where the user tries to guess a random number. |
-| `list_operations.py` | A program demonstrating list operations like sum, average, min, max, sort, and count. |
-| `todo_list.py` | An interactive to-do list CLI app to add, view, mark complete, and remove tasks. |
-| `factorial.py` | A program that calculates the factorial of a non-negative integer using a loop. |
-=======
-| `number_guessing_game.py` | An interactive guessing game where the user tries to guess a random number. |
-| `list_operations.py` | A program demonstrating list operations like sum, average, min, max, sort, and count. |
->>>>>>> Stashed changes
-=======
-| `number_guessing_game.py` | An interactive guessing game where the user tries to guess a random number. |
-| `list_operations.py` | A program demonstrating list operations like sum, average, min, max, sort, and count. |
->>>>>>> Stashed changes
+| `first.py` | Basic Python script covering string output and simple printing examples. |
+| `Addition of two number.py` | Adds two user-provided numbers. |
+| `diffrence of two number.py` | Finds the difference between two numbers. |
+| `multiplication_of_two_numbers.py` | Multiplies two numbers. |
+| `square_of_number.py` | Calculates the square of a number. |
+| `average_calculator.py` | Computes the average of numbers entered by the user. |
+| `area_of_rectangle.py` | Calculates the area of a rectangle. |
+| `simple_intrest.py` | Finds simple interest based on principal, rate, and time. |
+| `compound Intrest.py` | Calculates compound interest. |
+| `largest_of_three_numbers.py` | Compares three numbers and prints the largest one. |
+| `Even_odd.py` | Checks whether a number is even or odd. |
+| `check_leap_year.py` | Determines whether a given year is a leap year. |
+| `countdown_timer.py` | Prints a countdown from a starting number. |
+| `temperature_converter.py` | Converts Celsius to Fahrenheit. |
+| `factorial.py` | Calculates the factorial of a non-negative integer. |
+| `fibonacii.py` | Generates the Fibonacci sequence. |
+| `prime_number_check.py` | Checks whether a number is prime. |
+| `palindrome_check.py` | Verifies whether a string is a palindrome. |
+| `string_reversal.py` | Reverses a string using slicing or loops. |
+| `simple_calculator.py` | Performs basic arithmetic operations. |
+| `MatrixMulti.py` | Multiplies two matrices using nested loops. |
+| `number_guessing_game.py` | A small number guessing game. |
+| `list_operations.py` | Demonstrates common list operations like sum, min, max, sort, and count. |
+| `todo_list.py` | A basic command-line to-do list application. |
 
-## 🚀 Getting Started
+## Getting Started
 
 To run any script locally:
 
@@ -59,66 +50,43 @@ To run any script locally:
    cd Learning-Python-
    ```
 
-3. Run any script:
+3. Run a script:
    ```bash
    python3 first.py
    ```
 
-## 🛠 Topics Covered So Far
+## Topics Covered
 
-- Printing strings
-- Multi-line output
-- Triple-quoted strings
-- Input and output
-- Variables
-- Basic arithmetic operations
-- Addition and subtraction
-- Multiplication
+- Printing output
+- Variables and user input
+- Arithmetic operations
+- Conditional statements
+- Loops and counting
+- Leap year logic
+- Even and odd checks
 - Temperature conversion
 - Rectangle area calculation
-- Simple interest
-- Compound interest
-- Largest number finding
-- Countdown loop practice
-- Leap year checking
-- Even and odd number checking
+- Simple and compound interest
+- Largest number logic
 - Matrix multiplication
 - Fibonacci sequence
 - Prime number checking
 - Palindrome checking
-- Conditional statements
-- String reversal (slicing and loops)
-- String manipulation
-- Calculator with conditional operations
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-- Average calculation using arithmetic
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
+- String reversal
+- Basic calculator operations
 - Random number generation
-- While loops
-- Interactive user programs
-- List operations (append, sum, min, max, sort, count)
-- List comprehension basics
-- Import statements
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-- Factorial calculation with loops
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
+- List operations
+- To-do list logic
+- Factorial calculation
 
-## 🎯 Goal
+## Goal
 
-The goal of this repository is to track progress from Python beginner level to writing more useful and structured programs.
+The main goal of this repository is to track Python learning progress through practical exercises and small projects.
 
-## 🤝 Contributing
+## Contributing
 
-This is mainly a personal learning repository, but suggestions and feedback are welcome via issues or pull requests.
+This is a personal learning repository, but suggestions and feedback are welcome.
 
-## 📄 License
+## License
 
 No license specified yet.
